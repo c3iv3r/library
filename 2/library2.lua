@@ -3136,7 +3136,7 @@ local RunService = game:GetService("RunService")
 
 local tools = { Signals = {} }
 
-local themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/3itx-UI-LIB/refs/heads/main/themes"))()
+local themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/c3iv3r/library/refs/heads/main/2/themes.lua"))()
 
 local currentTheme = themes.default
 local themedObjects = {}
